@@ -29,12 +29,12 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 
 ## 🎤 Speaking
 
-| 🎤 | Event | Location | Year |
-|----|-------|----------|------|
-| 🔴 | **DEF CON 34** | Las Vegas, USA | 2026 |
-| 🔴 | **BSides Colombia** | Colombia | 2026 |
-| 🔴 | **PWN OR DIE** | Ecuador | 2026 |
-| 🔴 | **PWN OR DIE** | Ecuador | 2025 |
+| 🎤 | Event | Talk | Location | Year |
+|----|-------|------|----------|------|
+| 🔴 | **DEF CON 34** | Your APP Thinks I'm You: A Complete Kill Chain Against Mobile App Security | Las Vegas, USA | 2026 |
+| 🔴 | **BSides Colombia** | Your Brain > Your Toolkit: Real Bugs, Zero Code, Zero Tools | Colombia | 2026 |
+| 🔴 | **PWN OR DIE** | Frustration Kill Chain: un framework para depurar rechazo en seguridad ofensiva | Ecuador | 2026 |
+| 🔴 | **PWN OR DIE** | When Your Mind Becomes the Exploit: No Code, No Tools | Ecuador | 2025 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
