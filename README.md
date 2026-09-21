@@ -33,6 +33,7 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 |----|-------|----------|------|
 | 🔴 | **DEF CON 34** | Las Vegas, USA | 2026 |
 | 🔴 | **BSides Colombia** | Colombia | 2026 |
+| 🔴 | **PWN OR DIE** | Ecuador | 2026 |
 | 🔴 | **PWN OR DIE** | Ecuador | 2025 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
@@ -60,6 +61,11 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 ![Linux](https://img.shields.io/badge/Linux-E01E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-E01E1E?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-E01E1E?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI-Augmented Security**<br/>
+![Ollama](https://img.shields.io/badge/Ollama-E01E1E?style=for-the-badge&logo=ollama&logoColor=white)
+![Strix](https://img.shields.io/badge/Strix-E01E1E?style=for-the-badge&logo=openai&logoColor=white)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP%20LLM%20Top%2010-E01E1E?style=for-the-badge&logo=owasp&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
