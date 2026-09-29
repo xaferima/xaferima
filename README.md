@@ -69,6 +69,15 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
+## 🏆 Certifications
+
+![CEH Master](https://img.shields.io/badge/CEH%20Master-E01E1E?style=for-the-badge&logo=ec-council&logoColor=white)
+![eJPT](https://img.shields.io/badge/eJPT-E01E1E?style=for-the-badge&logo=ine&logoColor=white)
+![CAPIPEN](https://img.shields.io/badge/CAPIPEN-E01E1E?style=for-the-badge&logo=security&logoColor=white)
+![CMPen-Android](https://img.shields.io/badge/CMPen--Android-E01E1E?style=for-the-badge&logo=android&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
+
 <img src="https://komarev.com/ghpvc/?username=xaferima&style=for-the-badge&color=E01E1E&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
