@@ -78,6 +78,14 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
+## 🔒 CVEs
+
+| CVE | Project | CVSS | CWE | Status |
+|-----|---------|------|-----|--------|
+| [CVE-2026-105080](https://www.cve.org/CVERecord?id=CVE-2026-105080) | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) v0.18.0 | **9.4** CRITICAL | CWE-94 | ✅ Fixed in v0.19.0 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
+
 <img src="https://komarev.com/ghpvc/?username=xaferima&style=for-the-badge&color=E01E1E&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
