@@ -38,6 +38,25 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
+
+## 🏆 Certifications
+
+![CEH Master](https://img.shields.io/badge/CEH%20Master-E01E1E?style=for-the-badge&logo=ec-council&logoColor=white)
+![eJPT](https://img.shields.io/badge/eJPT-E01E1E?style=for-the-badge&logo=ine&logoColor=white)
+![CAPIPEN](https://img.shields.io/badge/CAPIPEN-E01E1E?style=for-the-badge&logo=security&logoColor=white)
+![CMPen-Android](https://img.shields.io/badge/CMPen--Android-E01E1E?style=for-the-badge&logo=android&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
+
+## 🔒 CVEs
+
+| CVE | Project | CVSS | CWE | Status |
+|-----|---------|------|-----|--------|
+| [CVE-2026-105080](https://www.cve.org/CVERecord?id=CVE-2026-105080) | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) v0.18.0 | **9.4** CRITICAL | CWE-94: Improper Control of Generation of Code ("Code Injection") | ✅ Fixed in v0.19.0 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
+
 ## 💻 Tech Stack
 
 **Offensive Security**<br/>
@@ -66,23 +85,6 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 ![Ollama](https://img.shields.io/badge/Ollama-E01E1E?style=for-the-badge&logo=ollama&logoColor=white)
 ![Strix](https://img.shields.io/badge/Strix-E01E1E?style=for-the-badge&logo=openai&logoColor=white)
 ![OWASP LLM Top 10](https://img.shields.io/badge/OWASP%20LLM%20Top%2010-E01E1E?style=for-the-badge&logo=owasp&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
-
-## 🏆 Certifications
-
-![CEH Master](https://img.shields.io/badge/CEH%20Master-E01E1E?style=for-the-badge&logo=ec-council&logoColor=white)
-![eJPT](https://img.shields.io/badge/eJPT-E01E1E?style=for-the-badge&logo=ine&logoColor=white)
-![CAPIPEN](https://img.shields.io/badge/CAPIPEN-E01E1E?style=for-the-badge&logo=security&logoColor=white)
-![CMPen-Android](https://img.shields.io/badge/CMPen--Android-E01E1E?style=for-the-badge&logo=android&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
-
-## 🔒 CVEs
-
-| CVE | Project | CVSS | CWE | Status |
-|-----|---------|------|-----|--------|
-| [CVE-2026-105080](https://www.cve.org/CVERecord?id=CVE-2026-105080) | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) v0.18.0 | **9.4** CRITICAL | CWE-94 | ✅ Fixed in v0.19.0 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
