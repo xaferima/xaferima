@@ -40,9 +40,15 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 
 ## 🔒 CVEs
 
-| CVE | Project | CVSS | CWE | Status |
-|-----|---------|------|-----|--------|
+| CVE / GHSA | Project | CVSS | CWE | Status |
+|------------|---------|------|-----|--------|
 | [CVE-2026-105080](https://www.cve.org/CVERecord?id=CVE-2026-105080) | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) v0.18.0 | **9.4** CRITICAL | CWE-94: Improper Control of Generation of Code ("Code Injection") | ✅ Fixed in v0.19.0 |
+| [GHSA-w2hj-54mc-76r4](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-w2hj-54mc-76r4) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **7.5** HIGH | CWE-190: Integer Overflow or Wraparound | ✅ Fixed in v0.16.0 |
+| [GHSA-fjh6-rrhv-4g63](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-fjh6-rrhv-4g63) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **6.5** MEDIUM | CWE-770: Allocation of Resources Without Limits or Throttling | ✅ Fixed in v0.16.0 |
+| [GHSA-g766-88fx-58h8](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-g766-88fx-58h8) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **5.9** MEDIUM | CWE-190: Integer Overflow or Wraparound | ✅ Fixed in v0.16.0 |
+| [GHSA-6524-w46v-6399](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-6524-w46v-6399) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **6.5** MEDIUM | CWE-129: Improper Validation of Array Index | ✅ Fixed in v0.16.1 |
+
+*GHSA advisories published; CVE assignment pending.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
