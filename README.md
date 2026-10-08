@@ -21,6 +21,7 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 <a href="https://twitter.com/xaferima"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@xaferima"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://xaferima.com"><img src="https://img.shields.io/badge/xaferima.com-E01E1E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /></a>
+<a href="https://xaferima.com/reportes"><img src="https://img.shields.io/badge/Security%20Reports-E01E1E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Security Reports" /></a>
 <a href="mailto:xaferima@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <a href="https://tryhackme.com/p/xaferima"><img src="https://tryhackme-badges.s3.amazonaws.com/xaferima.png" alt="TryHackMe"></a>
@@ -48,7 +49,7 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 | [GHSA-g766-88fx-58h8](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-g766-88fx-58h8) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **5.9** MEDIUM | CWE-190: Integer Overflow or Wraparound | ✅ Fixed in v0.16.0 |
 | [GHSA-6524-w46v-6399](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-6524-w46v-6399) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **6.5** MEDIUM | CWE-129: Improper Validation of Array Index | ✅ Fixed in v0.16.1 |
 
-*GHSA advisories published; CVE assignment pending.*
+*GHSA advisories published; CVE assignment pending. [Technical writeups →](https://xaferima.com/reportes)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
