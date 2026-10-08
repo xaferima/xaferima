@@ -20,11 +20,10 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 <a href="https://www.linkedin.com/in/xaferima"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/xaferima"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@xaferima"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://xaferima.com"><img src="https://img.shields.io/badge/xaferima.com-E01E1E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /></a>
-<a href="https://xaferima.com/reportes"><img src="https://img.shields.io/badge/Security%20Reports-E01E1E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Security Reports" /></a>
 <a href="mailto:xaferima@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://tryhackme.com/p/xaferima"><img src="https://tryhackme-badges.s3.amazonaws.com/xaferima.png" alt="TryHackMe"></a>
+<a href="https://xaferima.com"><img src="https://img.shields.io/badge/xaferima.com-E01E1E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /></a>
+<a href="https://xaferima.com/reportes"><img src="https://img.shields.io/badge/Security%20Reports-E01E1E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Security Reports" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E01E1E&height=3&width=800" alt="divider" width="100%" />
 
