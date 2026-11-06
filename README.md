@@ -47,6 +47,7 @@ Turning findings into remediation that engineering teams actually ship 🛠️
 | [GHSA-fjh6-rrhv-4g63](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-fjh6-rrhv-4g63) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **6.5** MEDIUM | CWE-770: Allocation of Resources Without Limits or Throttling | ✅ Fixed in v0.16.0 |
 | [GHSA-g766-88fx-58h8](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-g766-88fx-58h8) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **5.9** MEDIUM | CWE-190: Integer Overflow or Wraparound | ✅ Fixed in v0.16.0 |
 | [GHSA-6524-w46v-6399](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-6524-w46v-6399) · CVE pending | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) v0.15.0 | **6.5** MEDIUM | CWE-129: Improper Validation of Array Index | ✅ Fixed in v0.16.1 |
+| [GHSA-9c7h-xjrp-8gh3](https://github.com/snapotter-hq/SnapOtter/security/advisories/GHSA-9c7h-xjrp-8gh3) · CVE pending | [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) ≤ 2.2.0 | HIGH | CWE-79: Cross-site Scripting (XSS) | ✅ Fixed in v2.3.0 |
 
 *GHSA advisories published; CVE assignment pending. [Technical writeups →](https://xaferima.com/reportes)*
 
